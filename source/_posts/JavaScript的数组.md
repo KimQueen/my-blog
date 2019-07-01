@@ -7,10 +7,11 @@ tag:
   - 数组
   - 数据结构
 toc: true
-thumbnail: "/images/redux.jpg"
+thumbnail: "/images/handle.jpg"
 ---
 
 使用数组的目的：数组用来存储一系列同一种数据类型的值。但是在`JavaScript`中我们可以存储不同类型的值。
+<!--more-->
 ## 创建和初始化数组
 ```
 //三种声明数组的方式，使用new的方式进行声明
@@ -28,7 +29,7 @@ let dayOfWeek =['Sunday','Monday','Tuseday','Wednesday',
 console.log(dayOfWeek.length); // 输出：7
 ```
 
-<!--more-->
+
 ## 添加元素
 从数组中添加和删除元素也是很容易的，但有时也会很棘手，假设我们有一个数组的`numbers`，初始化成0到9：
 ```
