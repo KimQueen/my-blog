@@ -1,6 +1,6 @@
 ---
 title: webpack-模块热替换
-categories: webpack
+categories: 工具
 tag:
   - 前端
   - webpack

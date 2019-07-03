@@ -1,6 +1,6 @@
 ---
 title: webpack-安装
-categories: webpack
+categories: 工具
 tag:
   - 前端
   - webpack

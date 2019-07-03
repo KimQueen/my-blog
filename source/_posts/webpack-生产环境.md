@@ -1,6 +1,6 @@
 ---
 title: webpack-生产环境
-categories: webpack
+categories: 工具
 tag:
   - 前端
   - webpack
