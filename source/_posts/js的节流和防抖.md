@@ -13,7 +13,7 @@ thumbnail: "/images/train.jpg"
 <!--more-->
 #### 实现方式
 防抖的实现方式：
-```
+```javascript
 <!DOCTYPE html>
 <html>
   <head>
