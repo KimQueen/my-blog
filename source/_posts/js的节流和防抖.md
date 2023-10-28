@@ -1,6 +1,8 @@
 ---
 title: js的节流和防抖
 categories: 性能
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - JavaScript
   - 基础

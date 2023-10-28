@@ -1,6 +1,8 @@
 ---
 title: React组件中的constructor概述
 categories: react
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - 前端
   - 语言

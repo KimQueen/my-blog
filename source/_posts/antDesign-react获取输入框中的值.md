@@ -1,6 +1,8 @@
 ---
 title: antDesign+react获取输入框中的值
 categories: react
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - react
   - antDesign

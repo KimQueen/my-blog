@@ -1,6 +1,8 @@
 ---
 title: 'webpack学习之plugins,entry,output'
 categories: webPack
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - webPack
 toc: true

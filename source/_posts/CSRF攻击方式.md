@@ -1,6 +1,8 @@
 ---
 title: CSRF攻击方式
 categories: 安全
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - 前端
   - 安全

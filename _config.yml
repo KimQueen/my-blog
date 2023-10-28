@@ -10,6 +10,7 @@ keywords: JavaScript web前端 CSS 算法
 author: Kim Jin
 language: zh-CN
 timezone:
+updated_option: 'empty'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

@@ -1,6 +1,8 @@
 ---
 title: react组件的渲染
 categories: react
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - 组件
   - 渲染

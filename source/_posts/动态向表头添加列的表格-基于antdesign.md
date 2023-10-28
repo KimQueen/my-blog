@@ -1,6 +1,8 @@
 ---
 title: 动态向表头添加列的表格-基于antdesign
 categories: 前端功能实现代码
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - 前端
   - 表格

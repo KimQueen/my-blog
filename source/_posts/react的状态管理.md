@@ -1,6 +1,8 @@
 ---
 title: react的状态管理
 categories: 前端功能实现代码
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tag:
   - react
   - state

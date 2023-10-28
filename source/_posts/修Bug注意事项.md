@@ -1,6 +1,8 @@
 ---
 title: 修Bug注意事项
 categories: react
+date: 2020-11-01 10:00:00
+updated: 2020-11-01 10:00:00
 tags:
   - 前端
   - JavaScript
