@@ -1,6 +1,6 @@
 ---
 title: webpack学习之loader
-categories: webPack
+categories: webpack
 date: 2020-11-01 10:00:00
 updated: 2020-11-01 10:00:00
 tag:

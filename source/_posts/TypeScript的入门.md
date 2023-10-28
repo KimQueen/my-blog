@@ -1,6 +1,6 @@
 ---
-title: Async/Await简介与用法
-categories: 前端编程语言
+title: TypeScript
+categories: ES6
 date: 2020-11-01 10:00:00
 updated: 2020-11-01 10:00:00
 tag:

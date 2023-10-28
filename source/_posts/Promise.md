@@ -1,6 +1,6 @@
 ---
 title: Promise
-categories: 前端异步
+categories: ES6
 date: 2020-11-01 10:00:00
 updated: 2020-11-01 10:00:00
 tag:

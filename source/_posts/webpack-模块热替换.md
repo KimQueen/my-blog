@@ -1,6 +1,6 @@
 ---
 title: webpack-模块热替换
-categories: 工具
+categories: webpack
 date: 2020-11-01 10:00:00
 updated: 2020-11-01 10:00:00
 tag:
